@@ -23,7 +23,7 @@ This repository contains a series of graphic processing labs, each focusing on d
 
 - **Image:**
   - ![Surface](./Lab3/images/corrupted.png)
-  - ![Surface Reconstruction](./Lab3/images/reconsturct.png)
+  - ![Surface Reconstruction](./Lab3/images/reconstruct.png)
 
 ### Lab 4: Curvature Estimation with Monge Patch
 
