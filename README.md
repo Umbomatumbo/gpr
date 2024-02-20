@@ -13,9 +13,9 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** This lab implements the calculation of normal vectors for each point cloud and the Iterative Closest Point (ICP) algorithm for point cloud registration.
 
 - **Images:**
-  - ![Normal Vectors](./Lab1-2/images/norlam.png)
-  - ![Not Allinegt Clouds](./lab2/images/begin_not_alligned.png)
-  - ![ICP Result](./lab2/images/ICP.png)
+  - ![Normal Vectors](./Lab1-2/images/normal.png)
+  - ![Not Allinegt Clouds](./Lab1-2/images/begin_not_alligned.png)
+  - ![ICP Result](./Lab1-2/images/ICP.png)
 
 ### Lab 3: Surface Reconstruction using RBF
 
