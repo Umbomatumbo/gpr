@@ -22,7 +22,8 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** Implement surface reconstruction using Radial Basis Function (RBF). Explore the process of reconstructing surfaces from point clouds.
 
 - **Image:**
-  - ![Surface Reconstruction](./Lab3/images/surface_reconstruction.png)
+  - ![Surface](./Lab3/images/corrupted.png)
+  - ![Surface Reconstruction](./Lab3/images/reconsturct.png)
 
 ### Lab 4: Curvature Estimation with Monge Patch
 
@@ -39,7 +40,7 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** Smooth images using Iterative Least Squares Smoothing. Explore iterative techniques for achieving image smoothing.
 
 - **Image:**
-  - ![Smoothing Result](./Lab5/images/smooted.png)
+  - ![Smoothing Result](./Lab5/images/smoothed.png)
 
 ### Lab 6: Parametrization of Texture
 
