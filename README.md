@@ -29,18 +29,21 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** This lab focuses on curvature estimation using Monge patch. Understand and implement techniques for estimating curvature on surfaces.
 
 - **Image:**
-  - ![Curvature Estimation](./Lab4/images/curvature_estimation.png)
+  - ![Min Curvature](./Lab4/images/min.png)
+  - ![Max Curvature](./Lab4/images/max.png)
+  - ![Mean Curvature](./Lab4/images/mean.png)
+  - ![Gaussian Curvature](./Lab4/images/min.png)
 
 ### Lab 5: Iterative LSSP (Least Squares Smoothing)
 
 - **Description:** Smooth images using Iterative Least Squares Smoothing. Explore iterative techniques for achieving image smoothing.
 
 - **Image:**
-  - ![Smoothing Result](./Lab5/images/smoothing_result.png)
+  - ![Smoothing Result](./Lab5/images/smooted.png)
 
 ### Lab 6: Parametrization of Texture
 
 - **Description:** Implement texture parametrization techniques. Understand how to map textures onto surfaces in a parametric manner.
 
 - **Image:**
-  - ![Texture Parametrization](./lab6/images/texture_parametrization.png)
+  - ![Texture Parametrization](./lab6/images/param.png)
