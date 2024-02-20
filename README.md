@@ -13,7 +13,7 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** This lab implements the calculation of normal vectors for each point cloud and the Iterative Closest Point (ICP) algorithm for point cloud registration.
 
 - **Images:**
-  - ![Normal Vectors](./lab1/images/normal_vectors.png)
+  - ![Normal Vectors](./Lab1-2/images/normal_vectors.png)
   - ![ICP Result](./lab2/images/icp_result.png)
 
 ### Lab 3: Surface Reconstruction using RBF
@@ -21,21 +21,21 @@ This repository contains a series of graphic processing labs, each focusing on d
 - **Description:** Implement surface reconstruction using Radial Basis Function (RBF). Explore the process of reconstructing surfaces from point clouds.
 
 - **Image:**
-  - ![Surface Reconstruction](./lab3/images/surface_reconstruction.png)
+  - ![Surface Reconstruction](./Lab3/images/surface_reconstruction.png)
 
 ### Lab 4: Curvature Estimation with Monge Patch
 
 - **Description:** This lab focuses on curvature estimation using Monge patch. Understand and implement techniques for estimating curvature on surfaces.
 
 - **Image:**
-  - ![Curvature Estimation](./lab4/images/curvature_estimation.png)
+  - ![Curvature Estimation](./Lab4/images/curvature_estimation.png)
 
 ### Lab 5: Iterative LSSP (Least Squares Smoothing)
 
 - **Description:** Smooth images using Iterative Least Squares Smoothing. Explore iterative techniques for achieving image smoothing.
 
 - **Image:**
-  - ![Smoothing Result](./lab5/images/smoothing_result.png)
+  - ![Smoothing Result](./Lab5/images/smoothing_result.png)
 
 ### Lab 6: Parametrization of Texture
 
